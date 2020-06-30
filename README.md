@@ -1,4 +1,4 @@
 # ressources
-Ressources du plugin(images,...)
+Ressources du plugin (images,...)
 
-Captures d'écran pour l'Aide de l'extension
+Captures d'écran et autres ressources pour l'Aide de l'extension
